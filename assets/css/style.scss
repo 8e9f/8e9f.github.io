@@ -27,3 +27,22 @@ $body-font: "Pagella", Palatino, serif;
   height: auto;
   margin: 1.5em auto;
 }
+
+// toc in sidebar
+@media (min-width: 1400px) {
+  #markdown-toc {
+    position: fixed;
+    top: 2rem;
+    right: calc((100vw - 880px) / 2 - 270px);
+    width: 250px;
+    max-height: calc(100vh - 4rem);
+    overflow-y: auto;
+    border: none;
+    background: none;
+    font-size: 16px;
+    line-height: 1.45;
+
+    a { color: #57606a; }
+    a.active { color: #0969da; font-weight: 700; }
+  }
+}

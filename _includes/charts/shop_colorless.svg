@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 760" width="100%" role="img" aria-label="Shop: colorless cards" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
-<rect width="880" height="760" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 794" width="100%" role="img" aria-label="Shop: colorless cards" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="794" fill="#fff"/>
+<text x="2" y="22" font-size="18.7" font-weight="bold" fill="#1a1a1a">Shop: colorless cards</text>
+<g transform="translate(0,34)">
 <rect x="186.0" y="4.0" width="690.0" height="752.0" rx="4" fill="#f7f7f5"/>
 <text x="196.0" y="20.0" font-size="14.3" text-anchor="start" font-weight="bold" fill="#1a1a1a">Purchase rate</text>
 <text x="192.0" y="42.0" font-size="12.1" text-anchor="start" fill="#55554f">0%</text>
@@ -100,4 +102,5 @@
 <rect x="196.0" y="718.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
 <text x="170.0" y="747.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">The Bomb</text>
 <rect x="196.0" y="738.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+</g>
 </svg>

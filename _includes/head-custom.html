@@ -6,3 +6,40 @@
 </script>
 <script defer src="https://cdn.jsdelivr.net/npm/mathjax@4.1.3/tex-chtml.js"></script>
 <meta name="robots" content="noindex">
+<script>
+  // Highlight the TOC entry for the section currently being read.
+  document.addEventListener('DOMContentLoaded', function () {
+    var toc = document.getElementById('markdown-toc');
+    if (!toc) return;
+    var links = Array.prototype.slice.call(toc.querySelectorAll('a[href^="#"]'));
+    var items = links.map(function (a) {
+      return { link: a, heading: document.getElementById(decodeURIComponent(a.hash.slice(1))) };
+    }).filter(function (x) { return x.heading; });
+    var current = null, pending = false;
+
+    function update() {
+      pending = false;
+      var offset = window.innerHeight * 0.25, active = null;
+      for (var i = 0; i < items.length; i++) {
+        if (items[i].heading.getBoundingClientRect().top <= offset) active = items[i].link;
+        else break;
+      }
+      if (active === current) return;
+      if (current) current.classList.remove('active');
+      if (active) {
+        active.classList.add('active');
+        // Keep the active entry visible when the sidebar itself scrolls.
+        var top = active.getBoundingClientRect().top - toc.getBoundingClientRect().top + toc.scrollTop;
+        if (top < toc.scrollTop || top > toc.scrollTop + toc.clientHeight - 40)
+          toc.scrollTop = top - toc.clientHeight / 3;
+      }
+      current = active;
+    }
+
+    window.addEventListener('scroll', function () {
+      if (!pending) { pending = true; requestAnimationFrame(update); }
+    }, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  });
+</script>

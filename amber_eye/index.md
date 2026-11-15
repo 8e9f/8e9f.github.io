@@ -35,6 +35,7 @@ Below are a few of the games I found interesting.
 - [Run 12](https://youtu.be/vMD71lvmqfk) is in a strong position throughout but plays an interesting loop with 3 Reckless Charges.
 - [Run 96](https://youtu.be/pEH4aXzSzhA) bricks both boss relics and gets bailed out by the Act 3 shop.
 It also shows the effects of playing Spire for 60 hours straight in the Masked Bandits fight.
+- [Run 100](https://youtu.be/G2rmTCEqSZg) does a poor job preserving its resources, exacerbating a weak position.
 - [Run 90](https://youtu.be/V1uVBcM0eJY) plays early game with Wild Strike+ and Fire Breathing as its damage.
 
 The 100-game sample was played with the engine controlling a real game instance,
@@ -84,8 +85,6 @@ The values were measured on ~43 000 self-play games played at the end of the tra
 Due to being played with a lower search budget, they have a slightly lower winrate (~85%) than the runs in the sample.
 The lines on the chart surrounding the dots represent the 95% confidence interval.
 
-#### Neow
-
 {% include charts/neow.svg %}
 
 The engine really likes option 3, as long as it is not rare colorless or max HP.
@@ -97,9 +96,7 @@ Most swaps were rated as negative; only Pandora's Box, Astrolabe, Runic Pyramid,
 
 On the two-option blessing (Lament vs +10% max HP), the engine picks Lament almost every time,
 but only slightly favours it in terms of value.
-The average cost of the two-option blessing on winrate is about 2 percentage points versus the full blessing.
-
-#### Cards
+On average, the two-option blessing is rated about 2 percentage points worse for winrate than the full blessing.
 
 {% include charts/cards_red.svg %}
 
@@ -115,11 +112,10 @@ most of the rare card picks come from Sensory Stone, which probably underrates t
 (by Act 3, most runs are in a strong position and have less room to increase their win chance).
 Notably, Hand of Greed and The Bomb are not rated highly, which likely explains why it dislikes the Neow option.
 
-#### Relics
-
 {% include charts/relic_rewards.svg %}
 
 The three books are highly rated, in agreement with how often the engine will acquire them.
+The HP spent to get them is not included in this chart's rating, which inflates their placement a bit.
 Pocketwatch far outclasses the rest of the non-boss relics.
 Dead Branch is picked only 80% of the time but is still near the top of the chart,
 while Bottled Flame is skipped 80% of the time at the bottom.
@@ -133,17 +129,13 @@ Unexpectedly to me, Pandora's Box and Runic Cube are the next-highest rated.
 Generally, the engine is quite happy to pick Runic Cube even from the Act 1 boss reward.
 It also doesn't care too much for energy: 31 of the games in the sample were played with no energy relic.
 
-#### Potions
-
 {% include charts/potion_rewards.svg %}
 
 Fairy is rated far above all the other potions.
 This is maybe not surprising; given the engine's horrible potion management,
 it is better able to use the undrinkable Fairy in contrast to its tendency to waste the other drinkable potions.
-The Fairy is used both as a short-term resource to be spent, and as Act 4 insurance.
+The Fairy is used both as a short-term resource to be spent and as Act 4 insurance.
 It is also a high-priority purchase in shops.
-
-#### Shops
 
 {% include charts/shop_relics.svg %}
 
@@ -165,18 +157,16 @@ Colorless card purchases are more niche.
 Potions are frequently bought (and thrown away on the next floor).
 Fairy is the top-priority purchase in the shop on average.
 
-#### Events
-
 {% include charts/events_act1.svg %}
 
 For Scrap Ooze, the engine clicks at least once about 96% of the time.
 Most of the time, it will click at least 3-4 times before giving up, depending on how much HP it has.
 Interestingly, it often skips the Golden Idol, although this choice probably does not impact winrate significantly.
-It never takes the upgrades in Shining Light; generally, upgraded basics are not rated highly.
+It never takes the upgrades in Shining Light; generally, it does not rate upgraded basics highly.
 
 {% include charts/events_act2.svg %}
 
-Notably, the engine basically never upgrades all basics in Ancient Writing,
+Notably, the engine virtually never upgrades all basics in Ancient Writing,
 which is considered to be one of the strongest Act 2 event options.
 In the context of the engine being very remove-pilled, however, this makes a bit more sense.
 It also rarely takes Apparitions and Bites.
@@ -187,16 +177,15 @@ In The Joust, the engine tragically has little faith in Noodles.
 
 For the Mysterious Sphere, the engine is usually in a strong position entering Act 3,
 so it often doesn't consider the risk of fighting the double Orb Walkers worth it.
+Mark of the Bloom is never taken.
 It also takes the Madnesses a surprising amount.
 I don't see the vision, as the Madnesses seem to typically not perform well in its decks,
-but what do I know.
+but who am I to judge.
 
 {% include charts/events_shrines.svg %}
 
 The engine actually chooses to trade faces sometimes, which seems terrible to me,
 but maybe it doesn't rate the bad faces as badly.
-
-#### Enemies
 
 {% include charts/enemies.svg %}
 
@@ -206,8 +195,6 @@ The engine doesn't tend to take the Dead Adventurer Lagavulin fight in especiall
 Taking the fight too often may be one of the engine's blind spots.
 More generally, the engine seems to prefer spreading out the risk more throughout the course of the run,
 instead of concentrating it in Act 4.
-
-#### Fires and keys
 
 {% include charts/keys.svg %}
 
@@ -226,7 +213,13 @@ The engine doesn't mind resting a lot and generally only values a few key upgrad
 (Pommel Strike, Feel No Pain, Body Slam, Havoc, Offering etc.)
 When it owns a rest site relic, it usually makes use of it.
 
+## Intermission
+
 Now, on to the technical details of how I built the engine (with a bit of Spire trivia thrown in).
+If you are not a giga nerd who is interested in the nitty gritty of how to build such an engine,
+you can probably stop reading here or after the next couple of sections.
+Check out the [runs from the sample](https://youtube.com/playlist?list=PLBt3ZH12eKzw),
+and I will be working on extending the engine to the other three characters.
 
 ## AlphaZero
 
@@ -510,7 +503,7 @@ The probabilities are estimated from the model's outcome head.
 Similarly, we can define the HP reward as
 
 $$
-H(s) = \frac{1}{56}\left((\text{floor}(s)-1) + \sum_{f=\text{floor}(s)}^{56} \frac{\mathbb E[\text{HP on floor f} \mid s]}{255}\right),
+H(s) = \frac{1}{56}\left((\text{floor}(s)-1) + \sum_{f=\text{floor}(s)}^{56} \frac{\mathbb E[\text{HP on floor } f \mid s]}{255}\right),
 $$
 
 which rewards the model for preserving HP.
@@ -546,7 +539,7 @@ This increases the number of games that can be played per unit of compute, as we
 thus increasing the diversity of value labels that can be generated in the same amount of time.
 While the overall production of training samples is reduced, the tradeoff is worth it to gain more value labels.
 The fast moves also cost self-play strength, but this is also partially mitigated by not applying exploration noise to them.
-Empirically, using a fast move budget $$1/8$$ the size of the full move budget roughly 1 percentage point of winrate.
+Empirically, using a fast move budget $$1/8$$ the size of the full move budget cost roughly 1 percentage point of winrate.
 
 Playout cap randomization partially mitigates the memorization problem,
 but due to Spire's longer game length, significant memorization is still observed at $$p = 0.25$$.
@@ -585,7 +578,7 @@ Instead of a hard threshold like in Quantile Balancing, the boosted item is pick
 
 $$\min(1,\,c\cdot\exp(-m/T)),$$
 
-where $$c$$ is a parameter set to hit the target pick count,
+where $$c$$ is a parameter computed per item by binary search to hit the target pick rate,
 $$m$$ is the gap between the boosted item and the top pick after the bias is added, and $$T = 4$$ is a temperature parameter.
 Effectively, situations where the item is closer to being the top pick are more likely to be picked under this scheme,
 but situations with larger gaps are also chosen occasionally to have more variety in the picks.
@@ -673,7 +666,7 @@ On the GPU side, the model is small enough that its weights in FP16 fit comforta
 and it has high arithmetic intensity, so it was relatively easy to get high compute utilization.
 The kernel achieved about 75% MFU in self-play after discounting padded attention operations.
 
-## Conclusion
+## Next steps
 
 I am not sure why anyone would read this very long article, but hopefully it was informative.
 
@@ -696,9 +689,9 @@ I am excited to continue developing the engine and sharing the results.
     However, the game directly passes the enemy intent to the engine whenever Runic Dome is not owned.
     This can also similarly happen for enemies whose attack damage is randomized (Louse, Darklings).
     - When in an event fight which has a relic reward (Colosseum, Mind Bloom etc.),
-    the relic is rolled at the start of the fight and removed from the relic pool.
+    the relic reward is determined at the start of the fight and removed from the relic pool.
     The information about the relic pool is passed to the engine,
-    which could be used in principle to determine which relics will not be given at the end of the fight.
+    which could be used in principle by deducing that relics still in the pool will not be given as the reward.
     The network is unable to take advantage of this hidden information, however,
     as it is not given the relic pool as input.
 

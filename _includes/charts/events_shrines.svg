@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 650" width="100%" role="img" aria-label="events (shrines)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
-<rect width="880" height="650" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 684" width="100%" role="img" aria-label="events (shrines)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="684" fill="#fff"/>
+<text x="2" y="22" font-size="18.7" font-weight="bold" fill="#1a1a1a">Shrine events</text>
+<g transform="translate(0,34)">
 <text x="200.0" y="18.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Upgrade Shrine</text>
 <rect x="214.0" y="6.0" width="657.8" height="16.0" rx="2" fill="#2a78d6"/>
 <rect x="873.8" y="6.0" width="0.8" height="16.0" rx="2" fill="#c4c3bd"/>
@@ -136,4 +138,5 @@
 <text x="229.0" y="636.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Drink</text>
 <rect x="285.9" y="627.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
 <text x="300.9" y="636.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Leave</text>
+</g>
 </svg>

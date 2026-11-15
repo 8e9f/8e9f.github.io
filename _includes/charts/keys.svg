@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 122" width="100%" role="img" aria-label="act each key is obtained in" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
-<rect width="880" height="122" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 156" width="100%" role="img" aria-label="act each key is obtained in" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="156" fill="#fff"/>
+<text x="2" y="22" font-size="18.7" font-weight="bold" fill="#1a1a1a">Keys</text>
+<g transform="translate(0,34)">
 <text x="200.0" y="18.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Ruby Key</text>
 <rect x="214.0" y="6.0" width="93.6" height="16.0" rx="2" fill="#9ec5f4"/>
 <rect x="309.6" y="6.0" width="384.5" height="16.0" rx="2" fill="#3987e5"/>
@@ -25,4 +27,5 @@
 <text x="372.8" y="112.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Act 3</text>
 <rect x="429.8" y="103.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
 <text x="444.8" y="112.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Never</text>
+</g>
 </svg>

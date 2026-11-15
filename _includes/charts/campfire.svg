@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 154" width="100%" role="img" aria-label="campfire actions: share of campfire visits by act (relic actions: visits holding the relic)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
-<rect width="880" height="154" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 188" width="100%" role="img" aria-label="campfire actions: share of campfire visits by act (relic actions: visits holding the relic)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="188" fill="#fff"/>
+<text x="2" y="22" font-size="18.7" font-weight="bold" fill="#1a1a1a">Rest site choices</text>
+<g transform="translate(0,34)">
 <text x="149.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 1</text>
 <text x="259.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 2</text>
 <text x="369.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 3</text>
@@ -57,4 +59,5 @@
 <text x="369.0" y="144.0" font-size="12.7" text-anchor="middle" fill="#fff">55%</text>
 <rect x="425.0" y="131.0" width="108.0" height="18.0" rx="2" fill="#3987e5"/>
 <text x="479.0" y="144.0" font-size="12.7" text-anchor="middle" fill="#fff">50%</text>
+</g>
 </svg>

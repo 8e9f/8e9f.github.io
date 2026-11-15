@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 702" width="100%" role="img" aria-label="events (act1)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
-<rect width="880" height="702" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 736" width="100%" role="img" aria-label="events (act1)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="736" fill="#fff"/>
+<text x="2" y="22" font-size="18.7" font-weight="bold" fill="#1a1a1a">Act 1 events</text>
+<g transform="translate(0,34)">
 <text x="279.0" y="18.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Scrap Ooze</text>
 <rect x="293.0" y="6.0" width="553.4" height="16.0" rx="2" fill="#2a78d6"/>
 <rect x="848.4" y="6.0" width="25.6" height="16.0" rx="2" fill="#c4c3bd"/>
@@ -120,4 +122,5 @@
 <text x="308.0" y="688.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Stomp</text>
 <rect x="364.9" y="679.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
 <text x="379.9" y="688.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Eat</text>
+</g>
 </svg>

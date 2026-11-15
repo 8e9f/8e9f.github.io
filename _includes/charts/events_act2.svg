@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1006" width="100%" role="img" aria-label="events (act2)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
-<rect width="880" height="1006" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1040" width="100%" role="img" aria-label="events (act2)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="1040" fill="#fff"/>
+<text x="2" y="22" font-size="18.7" font-weight="bold" fill="#1a1a1a">Act 2 events</text>
+<g transform="translate(0,34)">
 <text x="200.0" y="18.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Augmenter</text>
 <rect x="214.0" y="6.0" width="19.0" height="16.0" rx="2" fill="#2a78d6"/>
 <rect x="235.0" y="6.0" width="593.8" height="16.0" rx="2" fill="#eb6834"/>
@@ -170,4 +172,5 @@
 <text x="229.0" y="992.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Murderer</text>
 <rect x="310.5" y="983.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
 <text x="325.5" y="992.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Owner</text>
+</g>
 </svg>

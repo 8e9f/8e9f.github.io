@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1474" width="100%" role="img" aria-label="Ironclad card pick rate by act" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
-<rect width="880" height="1474" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1508" width="100%" role="img" aria-label="Ironclad card pick rate by act" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="1508" fill="#fff"/>
+<text x="2" y="22" font-size="18.7" font-weight="bold" fill="#1a1a1a">Ironclad card pick rate by act</text>
+<g transform="translate(0,34)">
 <text x="239.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 1</text>
 <text x="349.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 2</text>
 <text x="459.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 3</text>
@@ -507,4 +509,5 @@
 <text x="349.0" y="1464.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">0%</text>
 <rect x="405.0" y="1451.0" width="108.0" height="18.0" rx="2" fill="#cde2fb"/>
 <text x="459.0" y="1464.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">0%</text>
+</g>
 </svg>
