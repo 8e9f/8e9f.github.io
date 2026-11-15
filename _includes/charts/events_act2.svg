@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1006" width="100%" role="img" aria-label="events (act2)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="1006" fill="#fff"/>
+<text x="200.0" y="18.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Augmenter</text>
+<rect x="214.0" y="6.0" width="19.0" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="235.0" y="6.0" width="593.8" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="830.8" y="6.0" width="43.2" height="16.0" rx="2" fill="#1baf7a"/>
+<rect x="214.0" y="27.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="36.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Test J.A.X</text>
+<rect x="326.8" y="27.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="341.8" y="36.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Become Test Subject</text>
+<rect x="513.3" y="27.0" width="10.0" height="10.0" rx="2" fill="#1baf7a"/>
+<text x="528.3" y="36.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Ingest Mutagens</text>
+<line x1="0.0" y1="48.0" x2="880.0" y2="48.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="70.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Cursed Tome</text>
+<rect x="214.0" y="58.0" width="519.8" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="735.8" y="58.0" width="138.2" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="79.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="88.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Read</text>
+<rect x="277.7" y="79.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="292.7" y="88.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Leave</text>
+<rect x="214.0" y="102.0" width="659.9" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="875.9" y="102.0" width="0.8" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="214.0" y="123.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="132.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Take</text>
+<rect x="277.7" y="123.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="292.7" y="132.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Stop</text>
+<line x1="0.0" y1="144.0" x2="880.0" y2="144.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="166.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Masked Bandits</text>
+<rect x="214.0" y="154.0" width="34.8" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="250.8" y="154.0" width="623.2" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="214.0" y="175.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="184.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Pay</text>
+<rect x="269.6" y="175.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="284.6" y="184.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Fight!</text>
+<line x1="0.0" y1="196.0" x2="880.0" y2="196.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="218.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">The Library</text>
+<rect x="214.0" y="206.0" width="597.5" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="813.5" y="206.0" width="60.5" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="214.0" y="227.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="236.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Read</text>
+<rect x="277.7" y="227.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="292.7" y="236.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Sleep</text>
+<line x1="0.0" y1="248.0" x2="880.0" y2="248.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="270.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Ancient Writing</text>
+<rect x="214.0" y="258.0" width="658.2" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="874.2" y="258.0" width="0.8" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="214.0" y="279.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="288.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Elegance</text>
+<rect x="310.5" y="279.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="325.5" y="288.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Simplicity</text>
+<line x1="0.0" y1="300.0" x2="880.0" y2="300.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="322.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">The Nest</text>
+<rect x="214.0" y="310.0" width="659.8" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="875.8" y="310.0" width="0.8" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="214.0" y="331.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="340.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Smash and Grab</text>
+<rect x="359.6" y="331.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="374.6" y="340.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Stay in Line</text>
+<line x1="0.0" y1="352.0" x2="880.0" y2="352.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="374.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">The Mausoleum</text>
+<rect x="214.0" y="362.0" width="144.1" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="360.1" y="362.0" width="513.9" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="383.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="392.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Open Coffin</text>
+<rect x="335.0" y="383.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="350.0" y="392.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Leave</text>
+<line x1="0.0" y1="404.0" x2="880.0" y2="404.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="426.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Council of Ghosts</text>
+<rect x="214.0" y="414.0" width="11.1" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="227.1" y="414.0" width="646.9" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="435.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="444.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Accept</text>
+<rect x="294.1" y="435.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="309.1" y="444.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Refuse</text>
+<line x1="0.0" y1="456.0" x2="880.0" y2="456.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="478.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Forgotten Altar</text>
+<rect x="214.0" y="466.0" width="562.1" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="778.1" y="466.0" width="95.9" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="214.0" y="487.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="496.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Sacrifice</text>
+<rect x="318.7" y="487.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="333.7" y="496.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Desecrate</text>
+<rect x="214.0" y="510.0" width="610.1" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="826.1" y="510.0" width="47.9" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="214.0" y="531.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="540.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Offer: Golden Idol</text>
+<rect x="392.3" y="531.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="407.3" y="540.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Sacrifice</text>
+<rect x="497.0" y="531.0" width="10.0" height="10.0" rx="2" fill="#1baf7a"/>
+<text x="512.0" y="540.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Desecrate</text>
+<line x1="0.0" y1="552.0" x2="880.0" y2="552.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="574.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Vampires(?)</text>
+<rect x="214.0" y="562.0" width="13.7" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="229.7" y="562.0" width="644.3" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="583.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="592.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Accept</text>
+<rect x="294.1" y="583.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="309.1" y="592.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Refuse</text>
+<rect x="214.0" y="606.0" width="153.1" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="369.1" y="606.0" width="504.9" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="627.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="636.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Offer</text>
+<rect x="285.9" y="627.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="300.9" y="636.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Accept</text>
+<rect x="366.0" y="627.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="381.0" y="636.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Refuse</text>
+<line x1="0.0" y1="648.0" x2="880.0" y2="648.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="670.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Knowing Skull</text>
+<rect x="214.0" y="658.0" width="392.2" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="608.2" y="658.0" width="12.1" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="622.3" y="658.0" width="68.1" height="16.0" rx="2" fill="#1baf7a"/>
+<rect x="692.4" y="658.0" width="181.6" height="16.0" rx="2" fill="#eda100"/>
+<rect x="214.0" y="679.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="688.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Riches?</text>
+<rect x="302.3" y="679.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="317.3" y="688.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Success?</text>
+<rect x="398.8" y="679.0" width="10.0" height="10.0" rx="2" fill="#1baf7a"/>
+<text x="413.8" y="688.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">A Pick Me Up?</text>
+<rect x="536.2" y="679.0" width="10.0" height="10.0" rx="2" fill="#eda100"/>
+<text x="551.2" y="688.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">How do I leave?</text>
+<line x1="0.0" y1="700.0" x2="880.0" y2="700.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="722.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Old Beggar</text>
+<rect x="214.0" y="710.0" width="613.4" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="829.4" y="710.0" width="44.6" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="731.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="740.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Offer a relic</text>
+<rect x="351.4" y="731.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="366.4" y="740.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Leave</text>
+<line x1="0.0" y1="752.0" x2="880.0" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="774.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Pleading Vagrant</text>
+<rect x="214.0" y="762.0" width="516.0" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="732.0" y="762.0" width="72.9" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="806.9" y="762.0" width="67.1" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="783.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="792.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Give Gold</text>
+<rect x="318.7" y="783.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="333.7" y="792.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Rob</text>
+<rect x="374.2" y="783.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="389.2" y="792.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Leave</text>
+<rect x="214.0" y="806.0" width="90.0" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="306.0" y="806.0" width="568.0" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="827.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="836.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Rob</text>
+<rect x="269.6" y="827.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="284.6" y="836.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Leave</text>
+<line x1="0.0" y1="848.0" x2="880.0" y2="848.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="870.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">The Colosseum</text>
+<rect x="214.0" y="858.0" width="50.2" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="266.2" y="858.0" width="607.8" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="214.0" y="879.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="888.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">COWARDICE</text>
+<rect x="318.7" y="879.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="333.7" y="888.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">VICTORY</text>
+<line x1="0.0" y1="900.0" x2="880.0" y2="900.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="922.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">N&#x27;loth</text>
+<rect x="214.0" y="910.0" width="17.6" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="233.6" y="910.0" width="13.6" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="249.2" y="910.0" width="624.8" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="931.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="940.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Offer a relic (1)</text>
+<rect x="384.1" y="931.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="399.1" y="940.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Offer a relic (2)</text>
+<rect x="554.3" y="931.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="569.3" y="940.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Leave</text>
+<line x1="0.0" y1="952.0" x2="880.0" y2="952.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="974.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">The Joust</text>
+<rect x="214.0" y="962.0" width="532.7" height="16.0" rx="2" fill="#2a78d6"/>
+<rect x="748.7" y="962.0" width="125.3" height="16.0" rx="2" fill="#eb6834"/>
+<rect x="214.0" y="983.0" width="10.0" height="10.0" rx="2" fill="#2a78d6"/>
+<text x="229.0" y="992.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Murderer</text>
+<rect x="310.5" y="983.0" width="10.0" height="10.0" rx="2" fill="#eb6834"/>
+<text x="325.5" y="992.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Owner</text>
+</svg>

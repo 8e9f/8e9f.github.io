@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 122" width="100%" role="img" aria-label="act each key is obtained in" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="122" fill="#fff"/>
+<text x="200.0" y="18.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Ruby Key</text>
+<rect x="214.0" y="6.0" width="93.6" height="16.0" rx="2" fill="#9ec5f4"/>
+<rect x="309.6" y="6.0" width="384.5" height="16.0" rx="2" fill="#3987e5"/>
+<rect x="696.2" y="6.0" width="124.7" height="16.0" rx="2" fill="#184f95"/>
+<rect x="822.9" y="6.0" width="51.1" height="16.0" rx="2" fill="#c4c3bd"/>
+<line x1="0.0" y1="30.0" x2="880.0" y2="30.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="52.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Emerald Key</text>
+<rect x="214.0" y="40.0" width="205.3" height="16.0" rx="2" fill="#9ec5f4"/>
+<rect x="421.3" y="40.0" width="117.4" height="16.0" rx="2" fill="#3987e5"/>
+<rect x="540.7" y="40.0" width="286.3" height="16.0" rx="2" fill="#184f95"/>
+<rect x="829.0" y="40.0" width="45.0" height="16.0" rx="2" fill="#c4c3bd"/>
+<line x1="0.0" y1="64.0" x2="880.0" y2="64.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="200.0" y="86.0" font-size="14.3" text-anchor="end" font-weight="bold" fill="#1a1a1a">Sapphire Key</text>
+<rect x="214.0" y="74.0" width="39.5" height="16.0" rx="2" fill="#9ec5f4"/>
+<rect x="255.5" y="74.0" width="331.0" height="16.0" rx="2" fill="#3987e5"/>
+<rect x="588.5" y="74.0" width="232.2" height="16.0" rx="2" fill="#184f95"/>
+<rect x="822.6" y="74.0" width="51.4" height="16.0" rx="2" fill="#c4c3bd"/>
+<rect x="214.0" y="103.0" width="10.0" height="10.0" rx="2" fill="#9ec5f4"/>
+<text x="229.0" y="112.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Act 1</text>
+<rect x="285.9" y="103.0" width="10.0" height="10.0" rx="2" fill="#3987e5"/>
+<text x="300.9" y="112.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Act 2</text>
+<rect x="357.8" y="103.0" width="10.0" height="10.0" rx="2" fill="#184f95"/>
+<text x="372.8" y="112.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Act 3</text>
+<rect x="429.8" y="103.0" width="10.0" height="10.0" rx="2" fill="#c4c3bd"/>
+<text x="444.8" y="112.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Never</text>
+</svg>

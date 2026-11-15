@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 154" width="100%" role="img" aria-label="campfire actions: share of campfire visits by act (relic actions: visits holding the relic)" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="154" fill="#fff"/>
+<text x="149.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 1</text>
+<text x="259.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 2</text>
+<text x="369.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 3</text>
+<text x="479.0" y="18.0" font-size="14.3" text-anchor="middle" font-weight="bold" fill="#1a1a1a">Act 4</text>
+<text x="80.0" y="44.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Rest</text>
+<rect x="95.0" y="31.0" width="108.0" height="18.0" rx="2" fill="#6da7ec"/>
+<text x="149.0" y="44.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">34%</text>
+<rect x="205.0" y="31.0" width="108.0" height="18.0" rx="2" fill="#6da7ec"/>
+<text x="259.0" y="44.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">38%</text>
+<rect x="315.0" y="31.0" width="108.0" height="18.0" rx="2" fill="#9ec5f4"/>
+<text x="369.0" y="44.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">21%</text>
+<rect x="425.0" y="31.0" width="108.0" height="18.0" rx="2" fill="#9ec5f4"/>
+<text x="479.0" y="44.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">20%</text>
+<text x="80.0" y="64.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Smith</text>
+<rect x="95.0" y="51.0" width="108.0" height="18.0" rx="2" fill="#256abf"/>
+<text x="149.0" y="64.0" font-size="12.7" text-anchor="middle" fill="#fff">57%</text>
+<rect x="205.0" y="51.0" width="108.0" height="18.0" rx="2" fill="#6da7ec"/>
+<text x="259.0" y="64.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">35%</text>
+<rect x="315.0" y="51.0" width="108.0" height="18.0" rx="2" fill="#256abf"/>
+<text x="369.0" y="64.0" font-size="12.7" text-anchor="middle" fill="#fff">60%</text>
+<rect x="425.0" y="51.0" width="108.0" height="18.0" rx="2" fill="#184f95"/>
+<text x="479.0" y="64.0" font-size="12.7" text-anchor="middle" fill="#fff">73%</text>
+<text x="80.0" y="84.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Recall</text>
+<rect x="95.0" y="71.0" width="108.0" height="18.0" rx="2" fill="#cde2fb"/>
+<text x="149.0" y="84.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">5%</text>
+<rect x="205.0" y="71.0" width="108.0" height="18.0" rx="2" fill="#9ec5f4"/>
+<text x="259.0" y="84.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">23%</text>
+<rect x="315.0" y="71.0" width="108.0" height="18.0" rx="2" fill="#cde2fb"/>
+<text x="369.0" y="84.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">10%</text>
+<rect x="425.0" y="71.0" width="108.0" height="18.0" rx="2" fill="#f7f7f5"/>
+<text x="80.0" y="104.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Lift</text>
+<rect x="95.0" y="91.0" width="108.0" height="18.0" rx="2" fill="#184f95"/>
+<text x="149.0" y="104.0" font-size="12.7" text-anchor="middle" fill="#fff">81%</text>
+<rect x="205.0" y="91.0" width="108.0" height="18.0" rx="2" fill="#9ec5f4"/>
+<text x="259.0" y="104.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">23%</text>
+<rect x="315.0" y="91.0" width="108.0" height="18.0" rx="2" fill="#9ec5f4"/>
+<text x="369.0" y="104.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">24%</text>
+<rect x="425.0" y="91.0" width="108.0" height="18.0" rx="2" fill="#9ec5f4"/>
+<text x="479.0" y="104.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">15%</text>
+<text x="80.0" y="124.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dig</text>
+<rect x="95.0" y="111.0" width="108.0" height="18.0" rx="2" fill="#256abf"/>
+<text x="149.0" y="124.0" font-size="12.7" text-anchor="middle" fill="#fff">69%</text>
+<rect x="205.0" y="111.0" width="108.0" height="18.0" rx="2" fill="#3987e5"/>
+<text x="259.0" y="124.0" font-size="12.7" text-anchor="middle" fill="#fff">46%</text>
+<rect x="315.0" y="111.0" width="108.0" height="18.0" rx="2" fill="#6da7ec"/>
+<text x="369.0" y="124.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">38%</text>
+<rect x="425.0" y="111.0" width="108.0" height="18.0" rx="2" fill="#cde2fb"/>
+<text x="479.0" y="124.0" font-size="12.7" text-anchor="middle" fill="#1a1a1a">13%</text>
+<text x="80.0" y="144.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Toke</text>
+<rect x="95.0" y="131.0" width="108.0" height="18.0" rx="2" fill="#3987e5"/>
+<text x="149.0" y="144.0" font-size="12.7" text-anchor="middle" fill="#fff">55%</text>
+<rect x="205.0" y="131.0" width="108.0" height="18.0" rx="2" fill="#3987e5"/>
+<text x="259.0" y="144.0" font-size="12.7" text-anchor="middle" fill="#fff">50%</text>
+<rect x="315.0" y="131.0" width="108.0" height="18.0" rx="2" fill="#3987e5"/>
+<text x="369.0" y="144.0" font-size="12.7" text-anchor="middle" fill="#fff">55%</text>
+<rect x="425.0" y="131.0" width="108.0" height="18.0" rx="2" fill="#3987e5"/>
+<text x="479.0" y="144.0" font-size="12.7" text-anchor="middle" fill="#fff">50%</text>
+</svg>

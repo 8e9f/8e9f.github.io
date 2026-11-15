@@ -1,0 +1,197 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 760" width="100%" role="img" aria-label="Colorless card rewards" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="760" fill="#fff"/>
+<rect x="186.0" y="4.0" width="415.0" height="752.0" rx="4" fill="#f7f7f5"/>
+<text x="196.0" y="20.0" font-size="14.3" text-anchor="start" font-weight="bold" fill="#1a1a1a">Option value</text>
+<text x="192.0" y="42.0" font-size="12.1" text-anchor="start" fill="#55554f">0</text>
+<line x1="196.0" y1="50.0" x2="196.0" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="327.7" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">0.5</text>
+<line x1="327.7" y1="50.0" x2="327.7" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="459.3" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">1</text>
+<line x1="459.3" y1="50.0" x2="459.3" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="595.0" y="42.0" font-size="12.1" text-anchor="end" fill="#55554f">1.5</text>
+<line x1="591.0" y1="50.0" x2="591.0" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<line x1="190.0" y1="47.0" x2="597.0" y2="47.0" stroke="#bdbdb6" stroke-width="1"/>
+<rect x="627.0" y="4.0" width="249.0" height="752.0" rx="4" fill="#f7f7f5"/>
+<text x="637.0" y="20.0" font-size="14.3" text-anchor="start" font-weight="bold" fill="#1a1a1a">Pick rate</text>
+<text x="633.0" y="42.0" font-size="12.1" text-anchor="start" fill="#55554f">0%</text>
+<line x1="637.0" y1="50.0" x2="637.0" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="751.5" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">50%</text>
+<line x1="751.5" y1="50.0" x2="751.5" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="870.0" y="42.0" font-size="12.1" text-anchor="end" fill="#55554f">100%</text>
+<line x1="866.0" y1="50.0" x2="866.0" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<line x1="631.0" y1="47.0" x2="872.0" y2="47.0" stroke="#bdbdb6" stroke-width="1"/>
+<text x="170.0" y="67.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Panic Button</text>
+<line x1="404.3" y1="63.0" x2="519.4" y2="63.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="461.9" cy="63.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="58.5" width="155.8" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="73.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="73.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="87.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Master of Strategy</text>
+<line x1="330.4" y1="83.0" x2="577.7" y2="83.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="454.1" cy="83.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="78.5" width="218.1" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="107.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Flash of Steel</text>
+<line x1="375.9" y1="103.0" x2="465.5" y2="103.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="420.7" cy="103.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="98.5" width="155.2" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="113.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="113.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="127.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Apotheosis</text>
+<line x1="249.3" y1="123.0" x2="532.2" y2="123.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="390.8" cy="123.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="118.5" width="209.3" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="147.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dramatic Entrance</text>
+<line x1="328.7" y1="143.0" x2="422.6" y2="143.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="375.6" cy="143.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="138.5" width="17.7" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="153.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="153.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="167.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dark Shackles</text>
+<line x1="306.5" y1="163.0" x2="364.9" y2="163.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="335.7" cy="163.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="158.5" width="147.0" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="187.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Finesse</text>
+<line x1="269.9" y1="183.0" x2="323.3" y2="183.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="296.6" cy="183.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="178.5" width="135.4" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="193.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="193.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="207.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bandage Up</text>
+<line x1="269.7" y1="203.0" x2="316.8" y2="203.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="293.2" cy="203.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="198.5" width="112.9" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="227.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Violence</text>
+<line x1="250.6" y1="223.0" x2="331.4" y2="223.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="291.0" cy="223.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="218.5" width="173.9" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="233.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="233.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="247.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Secret Technique</text>
+<line x1="226.4" y1="243.0" x2="331.6" y2="243.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="279.0" cy="243.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="238.5" width="188.8" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="267.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Thinking Ahead</text>
+<line x1="243.6" y1="263.0" x2="309.4" y2="263.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="276.5" cy="263.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="258.5" width="116.6" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="273.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="273.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="287.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Purity</text>
+<line x1="238.4" y1="283.0" x2="285.2" y2="283.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="261.8" cy="283.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="278.5" width="154.0" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="307.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Swift Strike</text>
+<line x1="236.4" y1="303.0" x2="277.2" y2="303.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="256.8" cy="303.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="298.5" width="12.1" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="313.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="313.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="327.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Discovery</text>
+<line x1="225.3" y1="323.0" x2="250.0" y2="323.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="237.7" cy="323.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="318.5" width="32.4" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="347.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Blind</text>
+<line x1="217.3" y1="343.0" x2="236.9" y2="343.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="227.1" cy="343.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="338.5" width="33.0" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="353.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="353.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="367.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Secret Weapon</text>
+<line x1="213.7" y1="363.0" x2="238.4" y2="363.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="226.0" cy="363.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="358.5" width="85.4" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="387.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Jack of All Trades</text>
+<line x1="209.5" y1="383.0" x2="235.3" y2="383.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="222.4" cy="383.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="378.5" width="42.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="393.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="393.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="407.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Good Instincts</text>
+<line x1="209.2" y1="403.0" x2="231.7" y2="403.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="220.4" cy="403.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="398.5" width="21.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="427.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Panacea</text>
+<line x1="212.5" y1="423.0" x2="226.3" y2="423.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="219.4" cy="423.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="418.5" width="77.2" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="433.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="433.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="447.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Madness</text>
+<line x1="208.6" y1="443.0" x2="221.8" y2="443.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="215.2" cy="443.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="438.5" width="61.6" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="467.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Transmutation</text>
+<line x1="197.4" y1="463.0" x2="231.9" y2="463.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="214.7" cy="463.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="458.5" width="18.0" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="473.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="473.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="487.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Trip</text>
+<line x1="207.0" y1="483.0" x2="221.0" y2="483.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="214.0" cy="483.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="478.5" width="6.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="507.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Deep Breath</text>
+<line x1="203.7" y1="503.0" x2="218.3" y2="503.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="211.0" cy="503.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="498.5" width="27.4" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="513.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="513.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="527.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Magnetism</text>
+<line x1="198.3" y1="523.0" x2="215.3" y2="523.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="206.8" cy="523.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="518.5" width="14.6" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="547.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Chrysalis</text>
+<line x1="199.3" y1="543.0" x2="213.3" y2="543.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="206.3" cy="543.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="538.5" width="52.2" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="553.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="553.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="567.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Hand of Greed</text>
+<line x1="196.0" y1="563.0" x2="222.6" y2="563.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="206.1" cy="563.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="558.5" width="3.6" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="587.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Panache</text>
+<line x1="198.1" y1="583.0" x2="212.7" y2="583.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="205.4" cy="583.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="578.5" width="4.7" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="593.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="593.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="607.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Enlightenment</text>
+<line x1="196.8" y1="603.0" x2="201.5" y2="603.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="199.2" cy="603.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="598.5" width="6.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="627.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Sadistic Nature</text>
+<line x1="196.4" y1="623.0" x2="199.3" y2="623.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="197.9" cy="623.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="618.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="633.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="633.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="647.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Mayhem</text>
+<line x1="196.0" y1="643.0" x2="198.1" y2="643.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="197.0" cy="643.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="638.5" width="3.0" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="667.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Forethought</text>
+<line x1="196.0" y1="663.0" x2="198.0" y2="663.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.8" cy="663.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="658.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="673.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="673.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="687.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Mind Blast</text>
+<line x1="196.0" y1="683.0" x2="197.4" y2="683.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.5" cy="683.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="678.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="707.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Metamorphosis</text>
+<line x1="196.0" y1="703.0" x2="197.4" y2="703.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.5" cy="703.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="698.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="713.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="713.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="727.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Impatience</text>
+<line x1="196.0" y1="723.0" x2="196.0" y2="723.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.0" cy="723.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="718.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="747.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">The Bomb</text>
+<line x1="196.0" y1="743.0" x2="196.0" y2="743.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.0" cy="743.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="738.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+</svg>

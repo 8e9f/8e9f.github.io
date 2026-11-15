@@ -1,0 +1,11 @@
+title: 8e9f
+description: 
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

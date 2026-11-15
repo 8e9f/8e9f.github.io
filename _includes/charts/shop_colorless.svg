@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 760" width="100%" role="img" aria-label="Shop: colorless cards" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="760" fill="#fff"/>
+<rect x="186.0" y="4.0" width="690.0" height="752.0" rx="4" fill="#f7f7f5"/>
+<text x="196.0" y="20.0" font-size="14.3" text-anchor="start" font-weight="bold" fill="#1a1a1a">Purchase rate</text>
+<text x="192.0" y="42.0" font-size="12.1" text-anchor="start" fill="#55554f">0%</text>
+<line x1="196.0" y1="50.0" x2="196.0" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="363.5" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">25%</text>
+<line x1="363.5" y1="50.0" x2="363.5" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="531.0" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">50%</text>
+<line x1="531.0" y1="50.0" x2="531.0" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="698.5" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">75%</text>
+<line x1="698.5" y1="50.0" x2="698.5" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="870.0" y="42.0" font-size="12.1" text-anchor="end" fill="#55554f">100%</text>
+<line x1="866.0" y1="50.0" x2="866.0" y2="752.0" stroke="#e6e6e2" stroke-width="1"/>
+<line x1="190.0" y1="47.0" x2="872.0" y2="47.0" stroke="#bdbdb6" stroke-width="1"/>
+<text x="170.0" y="67.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Apotheosis</text>
+<rect x="196.0" y="58.5" width="308.7" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="73.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="87.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Panic Button</text>
+<rect x="196.0" y="78.5" width="126.0" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="107.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Flash of Steel</text>
+<rect x="196.0" y="98.5" width="123.7" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="113.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="127.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Master of Strategy</text>
+<rect x="196.0" y="118.5" width="107.2" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="147.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Purity</text>
+<rect x="196.0" y="138.5" width="66.8" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="153.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="167.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dramatic Entrance</text>
+<rect x="196.0" y="158.5" width="41.8" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="187.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bandage Up</text>
+<rect x="196.0" y="178.5" width="40.3" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="193.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="207.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dark Shackles</text>
+<rect x="196.0" y="198.5" width="34.4" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="227.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Finesse</text>
+<rect x="196.0" y="218.5" width="21.0" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="233.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="247.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Secret Technique</text>
+<rect x="196.0" y="238.5" width="12.0" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="267.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Violence</text>
+<rect x="196.0" y="258.5" width="7.4" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="273.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="287.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Madness</text>
+<rect x="196.0" y="278.5" width="7.3" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="307.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Chrysalis</text>
+<rect x="196.0" y="298.5" width="4.7" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="313.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="327.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Jack of All Trades</text>
+<rect x="196.0" y="318.5" width="4.2" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="347.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Discovery</text>
+<rect x="196.0" y="338.5" width="4.2" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="353.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="367.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Blind</text>
+<rect x="196.0" y="358.5" width="3.4" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="387.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Panacea</text>
+<rect x="196.0" y="378.5" width="3.2" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="393.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="407.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Swift Strike</text>
+<rect x="196.0" y="398.5" width="2.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="427.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Thinking Ahead</text>
+<rect x="196.0" y="418.5" width="2.3" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="433.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="447.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Good Instincts</text>
+<rect x="196.0" y="438.5" width="1.7" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="467.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Deep Breath</text>
+<rect x="196.0" y="458.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="473.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="487.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Magnetism</text>
+<rect x="196.0" y="478.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="507.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Secret Weapon</text>
+<rect x="196.0" y="498.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="513.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="527.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Hand of Greed</text>
+<rect x="196.0" y="518.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="547.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Trip</text>
+<rect x="196.0" y="538.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="553.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="567.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Enlightenment</text>
+<rect x="196.0" y="558.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="587.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Mayhem</text>
+<rect x="196.0" y="578.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="593.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="607.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Metamorphosis</text>
+<rect x="196.0" y="598.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="627.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Transmutation</text>
+<rect x="196.0" y="618.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="633.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="647.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Impatience</text>
+<rect x="196.0" y="638.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="667.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Forethought</text>
+<rect x="196.0" y="658.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="673.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="687.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Mind Blast</text>
+<rect x="196.0" y="678.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="707.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Panache</text>
+<rect x="196.0" y="698.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="713.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="727.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Sadistic Nature</text>
+<rect x="196.0" y="718.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="747.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">The Bomb</text>
+<rect x="196.0" y="738.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+</svg>

@@ -1,0 +1,354 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1980" width="100%" role="img" aria-label="Relic rewards" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="1980" fill="#fff"/>
+<rect x="186.0" y="4.0" width="690.0" height="1972.0" rx="4" fill="#f7f7f5"/>
+<text x="196.0" y="20.0" font-size="14.3" text-anchor="start" font-weight="bold" fill="#1a1a1a">Option value</text>
+<text x="192.0" y="42.0" font-size="12.1" text-anchor="start" fill="#55554f">0</text>
+<line x1="196.0" y1="50.0" x2="196.0" y2="1972.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="330.0" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">2</text>
+<line x1="330.0" y1="50.0" x2="330.0" y2="1972.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="464.0" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">4</text>
+<line x1="464.0" y1="50.0" x2="464.0" y2="1972.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="598.0" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">6</text>
+<line x1="598.0" y1="50.0" x2="598.0" y2="1972.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="732.0" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">8</text>
+<line x1="732.0" y1="50.0" x2="732.0" y2="1972.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="870.0" y="42.0" font-size="12.1" text-anchor="end" fill="#55554f">10</text>
+<line x1="866.0" y1="50.0" x2="866.0" y2="1972.0" stroke="#e6e6e2" stroke-width="1"/>
+<line x1="190.0" y1="47.0" x2="872.0" y2="47.0" stroke="#bdbdb6" stroke-width="1"/>
+<text x="170.0" y="67.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Necronomicon</text>
+<line x1="731.7" y1="63.0" x2="836.7" y2="63.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="784.2" cy="63.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="73.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="87.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Enchiridion</text>
+<line x1="727.5" y1="83.0" x2="821.8" y2="83.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="774.6" cy="83.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="107.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Nilrys Codex</text>
+<line x1="708.8" y1="103.0" x2="808.6" y2="103.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="758.7" cy="103.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="113.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="127.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Pocketwatch</text>
+<line x1="539.8" y1="123.0" x2="847.6" y2="123.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="693.7" cy="123.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="147.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Ice Cream</text>
+<line x1="508.0" y1="143.0" x2="656.1" y2="143.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="582.1" cy="143.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="153.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="167.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Captains Wheel</text>
+<line x1="525.2" y1="163.0" x2="637.1" y2="163.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="581.2" cy="163.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="187.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Self Forming Clay</text>
+<line x1="529.9" y1="183.0" x2="623.6" y2="183.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="576.8" cy="183.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="193.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="207.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Lizard Tail</text>
+<line x1="506.9" y1="203.0" x2="619.6" y2="203.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="563.2" cy="203.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="227.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Tungsten Rod</text>
+<line x1="502.4" y1="223.0" x2="613.7" y2="223.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="558.1" cy="223.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="233.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="247.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Horn Cleat</text>
+<line x1="505.1" y1="243.0" x2="610.5" y2="243.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="557.8" cy="243.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="267.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Mango</text>
+<line x1="487.1" y1="263.0" x2="618.7" y2="263.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="552.9" cy="263.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="273.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="287.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Toxic Egg</text>
+<line x1="469.7" y1="283.0" x2="623.9" y2="283.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="546.8" cy="283.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="307.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Prayer Wheel</text>
+<line x1="477.5" y1="303.0" x2="600.6" y2="303.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="539.0" cy="303.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="313.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="327.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Thread And Needle</text>
+<line x1="482.2" y1="323.0" x2="594.1" y2="323.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="538.2" cy="323.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="347.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Old Coin</text>
+<line x1="466.5" y1="343.0" x2="608.3" y2="343.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="537.4" cy="343.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="353.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="367.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Gambling Chip</text>
+<line x1="484.8" y1="363.0" x2="589.6" y2="363.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="537.2" cy="363.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="387.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bag Of Preparation</text>
+<line x1="489.3" y1="383.0" x2="556.0" y2="383.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="522.6" cy="383.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="393.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="407.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dead Branch</text>
+<line x1="409.2" y1="403.0" x2="622.7" y2="403.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="515.9" cy="403.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="427.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Fossilized Helix</text>
+<line x1="448.2" y1="423.0" x2="569.5" y2="423.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="508.8" cy="423.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="433.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="447.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Centennial Puzzle</text>
+<line x1="469.0" y1="443.0" x2="548.0" y2="443.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="508.5" cy="443.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="467.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Calipers</text>
+<line x1="451.5" y1="463.0" x2="551.3" y2="463.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="501.4" cy="463.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="473.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="487.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Sundial</text>
+<line x1="467.8" y1="483.0" x2="534.5" y2="483.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="501.2" cy="483.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="507.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Incense Burner</text>
+<line x1="437.8" y1="503.0" x2="550.5" y2="503.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="494.1" cy="503.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="513.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="527.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Torii</text>
+<line x1="449.1" y1="523.0" x2="539.2" y2="523.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="494.1" cy="523.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="547.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Wing Boots</text>
+<line x1="430.9" y1="543.0" x2="525.1" y2="543.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="478.0" cy="543.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="553.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="567.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Charons Ashes</text>
+<line x1="403.7" y1="563.0" x2="550.7" y2="563.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="477.2" cy="563.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="587.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Magic Flower</text>
+<line x1="429.9" y1="583.0" x2="520.5" y2="583.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="475.2" cy="583.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="593.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="607.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Mummified Hand</text>
+<line x1="432.7" y1="603.0" x2="499.4" y2="603.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="466.0" cy="603.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="627.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Du Vu Doll</text>
+<line x1="413.3" y1="623.0" x2="517.3" y2="623.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="465.3" cy="623.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="633.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="647.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bronze Scales</text>
+<line x1="424.9" y1="643.0" x2="485.0" y2="643.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="455.0" cy="643.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="667.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Matryoshka</text>
+<line x1="421.8" y1="663.0" x2="488.0" y2="663.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="454.9" cy="663.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="673.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="687.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Frozen Egg</text>
+<line x1="407.8" y1="683.0" x2="484.5" y2="683.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="446.1" cy="683.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="707.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bird Faced Urn</text>
+<line x1="407.3" y1="703.0" x2="483.2" y2="703.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="445.2" cy="703.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="713.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="727.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Ink Bottle</text>
+<line x1="415.1" y1="723.0" x2="473.4" y2="723.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="444.2" cy="723.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="747.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Champion Belt</text>
+<line x1="401.4" y1="743.0" x2="480.1" y2="743.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="440.8" cy="743.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="753.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="767.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">White Beast Statue</text>
+<line x1="405.6" y1="763.0" x2="475.7" y2="763.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="440.7" cy="763.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="787.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Pantograph</text>
+<line x1="407.3" y1="783.0" x2="469.0" y2="783.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="438.1" cy="783.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="793.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="807.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Pear</text>
+<line x1="406.3" y1="803.0" x2="465.7" y2="803.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="436.0" cy="803.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="827.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Gremlin Horn</text>
+<line x1="402.5" y1="823.0" x2="469.2" y2="823.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="435.9" cy="823.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="833.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="847.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Question Card</text>
+<line x1="400.3" y1="843.0" x2="471.2" y2="843.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="435.8" cy="843.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="867.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Shuriken</text>
+<line x1="401.3" y1="863.0" x2="465.2" y2="863.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="433.2" cy="863.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="873.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="887.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">The Courier</text>
+<line x1="398.9" y1="883.0" x2="459.8" y2="883.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="429.4" cy="883.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="907.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Anchor</text>
+<line x1="401.8" y1="903.0" x2="456.7" y2="903.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="429.3" cy="903.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="913.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="927.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Pen Nib</text>
+<line x1="399.6" y1="923.0" x2="453.2" y2="923.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="426.4" cy="923.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="947.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Preserved Insect</text>
+<line x1="392.5" y1="943.0" x2="448.8" y2="943.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="420.7" cy="943.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="953.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="967.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Happy Flower</text>
+<line x1="388.7" y1="963.0" x2="436.8" y2="963.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="412.7" cy="963.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="987.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Vajra</text>
+<line x1="385.5" y1="983.0" x2="436.4" y2="983.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="410.9" cy="983.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="993.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1007.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Red Mask</text>
+<line x1="388.9" y1="1003.0" x2="425.4" y2="1003.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="407.2" cy="1003.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1027.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Oddly Smooth Stone</text>
+<line x1="381.8" y1="1023.0" x2="424.1" y2="1023.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="403.0" cy="1023.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1033.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1047.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Red Skull</text>
+<line x1="372.1" y1="1043.0" x2="429.9" y2="1043.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="401.0" cy="1043.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1067.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Meat On The Bone</text>
+<line x1="369.2" y1="1063.0" x2="425.4" y2="1063.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="397.3" cy="1063.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1073.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1087.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Mercury Hourglass</text>
+<line x1="364.5" y1="1083.0" x2="425.9" y2="1083.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="395.2" cy="1083.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1107.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bag Of Marbles</text>
+<line x1="370.7" y1="1103.0" x2="419.3" y2="1103.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="395.0" cy="1103.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1113.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1127.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Paper Phrog</text>
+<line x1="369.7" y1="1123.0" x2="417.6" y2="1123.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="393.7" cy="1123.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1147.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Singing Bowl</text>
+<line x1="357.6" y1="1143.0" x2="428.0" y2="1143.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="392.8" cy="1143.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1153.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1167.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Ceramic Fish</text>
+<line x1="333.4" y1="1163.0" x2="449.0" y2="1163.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="391.2" cy="1163.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1187.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">War Paint</text>
+<line x1="374.2" y1="1183.0" x2="407.5" y2="1183.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="390.8" cy="1183.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1193.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1207.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Eternal Feather</text>
+<line x1="360.6" y1="1203.0" x2="415.3" y2="1203.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="388.0" cy="1203.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1227.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Letter Opener</text>
+<line x1="362.9" y1="1223.0" x2="412.2" y2="1223.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="387.6" cy="1223.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1233.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1247.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Kunai</text>
+<line x1="360.1" y1="1243.0" x2="412.7" y2="1243.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="386.4" cy="1243.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1267.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Odd Mushroom</text>
+<line x1="366.0" y1="1263.0" x2="391.7" y2="1263.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="378.8" cy="1263.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1273.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1287.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Strawberry</text>
+<line x1="356.5" y1="1283.0" x2="397.3" y2="1283.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="376.9" cy="1283.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1307.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Molten Egg</text>
+<line x1="325.5" y1="1303.0" x2="426.9" y2="1303.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="376.2" cy="1303.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1313.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1327.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Akabeko</text>
+<line x1="352.5" y1="1323.0" x2="399.7" y2="1323.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="376.1" cy="1323.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1347.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Lantern</text>
+<line x1="353.8" y1="1343.0" x2="396.8" y2="1343.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="375.3" cy="1343.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1353.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1367.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Orichalcum</text>
+<line x1="352.0" y1="1363.0" x2="396.4" y2="1363.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="374.2" cy="1363.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1387.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Strike Dummy</text>
+<line x1="344.2" y1="1383.0" x2="396.7" y2="1383.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="370.5" cy="1383.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1393.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1407.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Shovel</text>
+<line x1="334.1" y1="1403.0" x2="402.1" y2="1403.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="368.1" cy="1403.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1427.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Ornamental Fan</text>
+<line x1="337.2" y1="1423.0" x2="389.2" y2="1423.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="363.2" cy="1423.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1433.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1447.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Art Of War</text>
+<line x1="346.9" y1="1443.0" x2="378.9" y2="1443.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="362.9" cy="1443.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1467.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Girya</text>
+<line x1="322.7" y1="1463.0" x2="392.3" y2="1463.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="357.5" cy="1463.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1473.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1487.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Nunchaku</text>
+<line x1="337.6" y1="1483.0" x2="369.1" y2="1483.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="353.3" cy="1483.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1507.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Maw Bank</text>
+<line x1="334.3" y1="1503.0" x2="368.4" y2="1503.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="351.4" cy="1503.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1513.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1527.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dream Catcher</text>
+<line x1="328.0" y1="1523.0" x2="372.4" y2="1523.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="350.2" cy="1523.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1547.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Peace Pipe</text>
+<line x1="321.7" y1="1543.0" x2="378.7" y2="1543.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="350.2" cy="1543.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1553.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1567.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Toy Ornithopter</text>
+<line x1="331.0" y1="1563.0" x2="366.4" y2="1563.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="348.7" cy="1563.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1587.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Blood Vial</text>
+<line x1="326.6" y1="1583.0" x2="369.9" y2="1583.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="348.2" cy="1583.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1593.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1607.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Smiling Mask</text>
+<line x1="327.6" y1="1603.0" x2="361.7" y2="1603.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="344.7" cy="1603.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1627.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Potion Belt</text>
+<line x1="322.4" y1="1623.0" x2="363.7" y2="1623.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="343.1" cy="1623.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1633.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1647.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Omamori</text>
+<line x1="324.6" y1="1643.0" x2="359.8" y2="1643.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="342.2" cy="1643.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1667.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Stone Calendar</text>
+<line x1="311.8" y1="1663.0" x2="369.1" y2="1663.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="340.5" cy="1663.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1673.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1687.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Ancient Tea Set</text>
+<line x1="319.4" y1="1683.0" x2="360.1" y2="1683.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="339.7" cy="1683.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1707.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Ginger</text>
+<line x1="311.2" y1="1703.0" x2="364.3" y2="1703.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="337.8" cy="1703.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1713.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1727.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bottled Tornado</text>
+<line x1="321.7" y1="1723.0" x2="353.7" y2="1723.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="337.7" cy="1723.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1747.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Whetstone</text>
+<line x1="313.8" y1="1743.0" x2="336.1" y2="1743.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="325.0" cy="1743.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1753.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1767.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Meal Ticket</text>
+<line x1="305.0" y1="1763.0" x2="334.4" y2="1763.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="319.7" cy="1763.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1787.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Unceasing Top</text>
+<line x1="295.2" y1="1783.0" x2="340.9" y2="1783.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="318.1" cy="1783.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1793.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1807.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Turnip</text>
+<line x1="286.6" y1="1803.0" x2="324.5" y2="1803.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="305.5" cy="1803.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1827.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Blue Candle</text>
+<line x1="284.6" y1="1823.0" x2="316.6" y2="1823.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="300.6" cy="1823.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1833.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1847.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Darkstone Periapt</text>
+<line x1="276.3" y1="1843.0" x2="318.8" y2="1843.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="297.6" cy="1843.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1867.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Regal Pillow</text>
+<line x1="273.8" y1="1863.0" x2="314.8" y2="1863.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="294.3" cy="1863.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1873.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1887.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Juzu Bracelet</text>
+<line x1="273.8" y1="1883.0" x2="307.7" y2="1883.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="290.7" cy="1883.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1907.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Tiny Chest</text>
+<line x1="263.2" y1="1903.0" x2="302.9" y2="1903.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="283.0" cy="1903.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1913.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1927.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">The Boot</text>
+<line x1="257.4" y1="1923.0" x2="285.8" y2="1923.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="271.6" cy="1923.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="170.0" y="1947.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bottled Lightning</text>
+<line x1="249.9" y1="1943.0" x2="262.2" y2="1943.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="256.0" cy="1943.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="188.0" y="1953.0" width="686.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1967.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bottled Flame</text>
+<line x1="209.6" y1="1963.0" x2="216.4" y2="1963.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="213.0" cy="1963.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+</svg>

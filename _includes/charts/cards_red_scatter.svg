@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 470" width="100%" role="img" aria-label="card pick rate and margin" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="470" fill="#fff"/>
+<rect x="60.0" y="8.0" width="810.0" height="412.0" rx="4" fill="#f7f7f5"/>
+<line x1="60.0" y1="414.0" x2="870.0" y2="414.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="418.0" font-size="12.1" text-anchor="end" fill="#55554f">-5</text>
+<line x1="60.0" y1="369.6" x2="870.0" y2="369.6" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="373.6" font-size="12.1" text-anchor="end" fill="#55554f">-4</text>
+<line x1="60.0" y1="325.1" x2="870.0" y2="325.1" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="329.1" font-size="12.1" text-anchor="end" fill="#55554f">-3</text>
+<line x1="60.0" y1="280.7" x2="870.0" y2="280.7" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="284.7" font-size="12.1" text-anchor="end" fill="#55554f">-2</text>
+<line x1="60.0" y1="236.2" x2="870.0" y2="236.2" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="240.2" font-size="12.1" text-anchor="end" fill="#55554f">-1</text>
+<line x1="60.0" y1="191.8" x2="870.0" y2="191.8" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="195.8" font-size="12.1" text-anchor="end" fill="#55554f">0</text>
+<line x1="60.0" y1="147.3" x2="870.0" y2="147.3" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="151.3" font-size="12.1" text-anchor="end" fill="#55554f">+1</text>
+<line x1="60.0" y1="102.9" x2="870.0" y2="102.9" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="106.9" font-size="12.1" text-anchor="end" fill="#55554f">+2</text>
+<line x1="60.0" y1="58.4" x2="870.0" y2="58.4" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="62.4" font-size="12.1" text-anchor="end" fill="#55554f">+3</text>
+<line x1="60.0" y1="14.0" x2="870.0" y2="14.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="52.0" y="18.0" font-size="12.1" text-anchor="end" fill="#55554f">+4</text>
+<line x1="66.0" y1="8.0" x2="66.0" y2="420.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="66.0" y="438.0" font-size="12.1" text-anchor="middle" fill="#55554f">0%</text>
+<line x1="265.5" y1="8.0" x2="265.5" y2="420.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="265.5" y="438.0" font-size="12.1" text-anchor="middle" fill="#55554f">25%</text>
+<line x1="465.0" y1="8.0" x2="465.0" y2="420.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="465.0" y="438.0" font-size="12.1" text-anchor="middle" fill="#55554f">50%</text>
+<line x1="664.5" y1="8.0" x2="664.5" y2="420.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="664.5" y="438.0" font-size="12.1" text-anchor="middle" fill="#55554f">75%</text>
+<line x1="864.0" y1="8.0" x2="864.0" y2="420.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="864.0" y="438.0" font-size="12.1" text-anchor="middle" fill="#55554f">100%</text>
+<text x="465.0" y="458.0" font-size="13.8" text-anchor="middle" fill="#1a1a1a">Pick rate</text>
+<text transform="translate(16,214) rotate(-90)" font-size="13.8" text-anchor="middle" fill="#1a1a1a">Margin</text>
+<line x1="60.0" y1="191.8" x2="870.0" y2="191.8" stroke="#bdbdb6" stroke-width="1.25"/>
+<circle cx="296.5" cy="238.6" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="123.8" cy="315.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="303.5" cy="245.3" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="70.4" cy="355.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="81.5" cy="335.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="70.3" cy="317.9" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="67.3" cy="386.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="468.2" cy="179.6" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="175.8" cy="275.5" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="66.7" cy="349.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="73.5" cy="324.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="75.5" cy="299.7" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="267.2" cy="248.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="104.4" cy="304.5" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="116.2" cy="295.6" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="85.7" cy="304.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="249.3" cy="224.8" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="541.4" cy="185.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="235.1" cy="250.5" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="68.2" cy="356.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="336.7" cy="208.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="178.3" cy="246.6" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="633.3" cy="114.8" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="761.1" cy="75.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="711.3" cy="123.7" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="119.7" cy="305.5" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="433.4" cy="193.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="261.2" cy="235.6" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="69.4" cy="414.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="138.5" cy="261.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="283.5" cy="228.8" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="544.5" cy="174.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="430.7" cy="218.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="355.3" cy="215.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="783.3" cy="89.3" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="78.9" cy="370.3" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="111.1" cy="296.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="66.1" cy="400.5" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="692.5" cy="156.3" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="274.7" cy="237.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="407.7" cy="214.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="476.1" cy="221.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="183.2" cy="248.9" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="260.7" cy="230.6" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="238.0" cy="222.8" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="158.2" cy="275.8" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="76.5" cy="315.3" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="739.1" cy="99.7" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="307.8" cy="221.2" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="263.4" cy="248.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="163.2" cy="252.9" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="449.5" cy="218.2" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="311.3" cy="254.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="504.3" cy="203.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="255.9" cy="216.3" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="175.4" cy="332.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="534.4" cy="223.5" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="586.2" cy="174.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="80.6" cy="352.6" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="516.9" cy="163.8" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="142.7" cy="343.8" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="638.1" cy="111.3" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="250.4" cy="300.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="435.2" cy="275.8" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="314.3" cy="295.6" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="506.8" cy="145.6" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="174.1" cy="329.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="107.7" cy="341.2" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="214.8" cy="295.2" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="151.8" cy="375.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="774.5" cy="52.1" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<circle cx="229.2" cy="319.4" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<text x="782.5" y="56.1" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Offering</text>
+<text x="782.5" y="56.1" font-size="13.2" text-anchor="start" fill="#1a1a1a">Offering</text>
+<text x="769.1" y="79.0" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Shockwave</text>
+<text x="769.1" y="79.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Shockwave</text>
+<text x="731.1" y="103.7" font-size="13.2" text-anchor="end" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Second Wind</text>
+<text x="731.1" y="103.7" font-size="13.2" text-anchor="end" fill="#1a1a1a">Second Wind</text>
+<text x="625.3" y="118.8" font-size="13.2" text-anchor="end" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Battle Trance</text>
+<text x="625.3" y="118.8" font-size="13.2" text-anchor="end" fill="#1a1a1a">Battle Trance</text>
+<text x="719.3" y="127.7" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Dark Embrace</text>
+<text x="719.3" y="127.7" font-size="13.2" text-anchor="start" fill="#1a1a1a">Dark Embrace</text>
+<text x="514.8" y="149.6" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Fiend Fire</text>
+<text x="514.8" y="149.6" font-size="13.2" text-anchor="start" fill="#1a1a1a">Fiend Fire</text>
+<text x="700.5" y="160.3" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Burning Pact</text>
+<text x="700.5" y="160.3" font-size="13.2" text-anchor="start" fill="#1a1a1a">Burning Pact</text>
+<text x="508.9" y="167.8" font-size="13.2" text-anchor="end" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Corruption</text>
+<text x="508.9" y="167.8" font-size="13.2" text-anchor="end" fill="#1a1a1a">Corruption</text>
+<text x="594.2" y="178.0" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Impervious</text>
+<text x="594.2" y="178.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Impervious</text>
+<text x="159.8" y="379.1" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Limit Break</text>
+<text x="159.8" y="379.1" font-size="13.2" text-anchor="start" fill="#1a1a1a">Limit Break</text>
+<text x="74.1" y="404.5" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Searing Blow</text>
+<text x="74.1" y="404.5" font-size="13.2" text-anchor="start" fill="#1a1a1a">Searing Blow</text>
+<text x="77.4" y="418.0" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Dual Wield</text>
+<text x="77.4" y="418.0" font-size="13.2" text-anchor="start" fill="#1a1a1a">Dual Wield</text>
+<text x="443.2" y="279.8" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Exhume</text>
+<text x="443.2" y="279.8" font-size="13.2" text-anchor="start" fill="#1a1a1a">Exhume</text>
+<text x="322.3" y="299.6" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Barricade</text>
+<text x="322.3" y="299.6" font-size="13.2" text-anchor="start" fill="#1a1a1a">Barricade</text>
+<text x="237.2" y="323.4" font-size="13.2" text-anchor="start" fill="#fff" stroke="#fff" stroke-width="3.5" stroke-linejoin="round">Demon Form</text>
+<text x="237.2" y="323.4" font-size="13.2" text-anchor="start" fill="#1a1a1a">Demon Form</text>
+</svg>
