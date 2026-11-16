@@ -1,0 +1,314 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1214" width="100%" role="img" aria-label="Ironclad card rewards on floor 1" font-family="&#x27;DejaVu Sans&#x27;, Verdana, &#x27;Bitstream Vera Sans&#x27;, sans-serif" style="max-width:880px">
+<rect width="880" height="1214" fill="#fff"/>
+<text x="2" y="22" font-size="18.7" font-weight="bold" fill="#1a1a1a">Floor 1 card picks</text>
+<g transform="translate(0,34)">
+<rect x="186.0" y="4.0" width="415.0" height="1172.0" rx="4" fill="#f7f7f5"/>
+<text x="196.0" y="20.0" font-size="14.3" text-anchor="start" font-weight="bold" fill="#1a1a1a">Option value</text>
+<text x="192.0" y="42.0" font-size="12.1" text-anchor="start" fill="#55554f">0</text>
+<line x1="196.0" y1="50.0" x2="196.0" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="252.4" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">1</text>
+<line x1="252.4" y1="50.0" x2="252.4" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="308.9" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">2</text>
+<line x1="308.9" y1="50.0" x2="308.9" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="365.3" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">3</text>
+<line x1="365.3" y1="50.0" x2="365.3" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="421.7" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">4</text>
+<line x1="421.7" y1="50.0" x2="421.7" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="478.1" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">5</text>
+<line x1="478.1" y1="50.0" x2="478.1" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="534.6" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">6</text>
+<line x1="534.6" y1="50.0" x2="534.6" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="595.0" y="42.0" font-size="12.1" text-anchor="end" fill="#55554f">7</text>
+<line x1="591.0" y1="50.0" x2="591.0" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<line x1="190.0" y1="47.0" x2="597.0" y2="47.0" stroke="#bdbdb6" stroke-width="1"/>
+<rect x="627.0" y="4.0" width="249.0" height="1172.0" rx="4" fill="#f7f7f5"/>
+<text x="637.0" y="20.0" font-size="14.3" text-anchor="start" font-weight="bold" fill="#1a1a1a">Pick rate</text>
+<text x="633.0" y="42.0" font-size="12.1" text-anchor="start" fill="#55554f">0%</text>
+<line x1="637.0" y1="50.0" x2="637.0" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="751.5" y="42.0" font-size="12.1" text-anchor="middle" fill="#55554f">50%</text>
+<line x1="751.5" y1="50.0" x2="751.5" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<text x="870.0" y="42.0" font-size="12.1" text-anchor="end" fill="#55554f">100%</text>
+<line x1="866.0" y1="50.0" x2="866.0" y2="1172.0" stroke="#e6e6e2" stroke-width="1"/>
+<line x1="631.0" y1="47.0" x2="872.0" y2="47.0" stroke="#bdbdb6" stroke-width="1"/>
+<text x="170.0" y="67.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Shockwave</text>
+<line x1="516.0" y1="63.0" x2="553.8" y2="63.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="534.9" cy="63.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="58.5" width="228.3" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="73.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="73.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="87.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Battle Trance</text>
+<line x1="467.0" y1="83.0" x2="498.9" y2="83.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="482.9" cy="83.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="78.5" width="221.7" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="107.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Carnage</text>
+<line x1="397.8" y1="103.0" x2="431.4" y2="103.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="414.6" cy="103.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="98.5" width="215.9" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="113.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="113.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="127.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Pommel Strike</text>
+<line x1="354.7" y1="123.0" x2="370.6" y2="123.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="362.6" cy="123.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="118.5" width="207.2" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="147.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Uppercut</text>
+<line x1="341.8" y1="143.0" x2="370.8" y2="143.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="356.3" cy="143.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="138.5" width="200.1" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="153.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="153.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="167.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Second Wind</text>
+<line x1="326.6" y1="163.0" x2="358.9" y2="163.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="342.8" cy="163.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="158.5" width="191.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="187.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Feel No Pain</text>
+<line x1="324.0" y1="183.0" x2="353.0" y2="183.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="338.5" cy="183.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="178.5" width="182.8" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="193.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="193.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="207.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Power Through</text>
+<line x1="310.3" y1="203.0" x2="336.8" y2="203.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="323.5" cy="203.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="198.5" width="182.7" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="227.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Spot Weakness</text>
+<line x1="308.6" y1="223.0" x2="334.5" y2="223.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="321.6" cy="223.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="218.5" width="183.8" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="233.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="233.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="247.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Headbutt</text>
+<line x1="301.9" y1="243.0" x2="316.0" y2="243.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="309.0" cy="243.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="238.5" width="176.0" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="267.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Blood for Blood</text>
+<line x1="286.2" y1="263.0" x2="315.4" y2="263.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="300.8" cy="263.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="258.5" width="165.8" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="273.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="273.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="287.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Sever Soul</text>
+<line x1="281.6" y1="283.0" x2="305.1" y2="283.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="293.3" cy="283.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="278.5" width="157.9" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="307.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Anger</text>
+<line x1="274.0" y1="303.0" x2="286.8" y2="303.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="280.4" cy="303.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="298.5" width="148.1" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="313.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="313.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="327.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Shrug It Off</text>
+<line x1="267.2" y1="323.0" x2="277.8" y2="323.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="272.5" cy="323.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="318.5" width="149.2" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="347.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Metallicize</text>
+<line x1="244.4" y1="343.0" x2="261.4" y2="343.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="252.9" cy="343.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="338.5" width="139.2" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="353.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="353.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="367.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Reckless Charge</text>
+<line x1="242.2" y1="363.0" x2="259.7" y2="363.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="251.0" cy="363.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="358.5" width="132.6" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="387.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Whirlwind</text>
+<line x1="242.6" y1="383.0" x2="259.4" y2="383.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="251.0" cy="383.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="378.5" width="125.2" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="393.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="393.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="407.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Hemokinesis</text>
+<line x1="233.0" y1="403.0" x2="249.8" y2="403.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="241.4" cy="403.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="398.5" width="116.1" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="427.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Flame Barrier</text>
+<line x1="223.6" y1="423.0" x2="236.2" y2="423.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="229.9" cy="423.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="418.5" width="111.1" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="433.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="433.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="447.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Inflame</text>
+<line x1="220.6" y1="443.0" x2="232.9" y2="443.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="226.8" cy="443.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="438.5" width="105.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="467.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Infernal Blade</text>
+<line x1="220.0" y1="463.0" x2="231.9" y2="463.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="226.0" cy="463.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="458.5" width="99.6" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="473.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="473.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="487.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dark Embrace</text>
+<line x1="219.4" y1="483.0" x2="230.9" y2="483.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="225.1" cy="483.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="478.5" width="109.8" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="507.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Pummel</text>
+<line x1="218.1" y1="503.0" x2="229.8" y2="503.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="223.9" cy="503.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="498.5" width="96.3" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="513.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="513.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="527.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Disarm</text>
+<line x1="217.5" y1="523.0" x2="229.2" y2="523.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="223.4" cy="523.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="518.5" width="97.3" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="547.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dropkick</text>
+<line x1="217.8" y1="543.0" x2="228.8" y2="543.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="223.3" cy="543.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="538.5" width="104.0" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="553.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="553.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="567.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Twin Strike</text>
+<line x1="216.3" y1="563.0" x2="221.6" y2="563.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="219.0" cy="563.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="558.5" width="83.4" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="587.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Burning Pact</text>
+<line x1="211.3" y1="583.0" x2="219.3" y2="583.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="215.3" cy="583.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="578.5" width="99.6" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="593.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="593.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="607.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Ghostly Armor</text>
+<line x1="209.6" y1="603.0" x2="217.4" y2="603.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="213.5" cy="603.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="598.5" width="90.8" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="627.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Fire Breathing</text>
+<line x1="208.9" y1="623.0" x2="217.1" y2="623.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="213.0" cy="623.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="618.5" width="82.9" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="633.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="633.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="647.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Rampage</text>
+<line x1="206.9" y1="643.0" x2="215.7" y2="643.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="211.3" cy="643.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="638.5" width="65.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="667.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Clothesline</text>
+<line x1="207.6" y1="663.0" x2="211.8" y2="663.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="209.7" cy="663.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="658.5" width="63.0" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="673.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="673.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="687.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Seeing Red</text>
+<line x1="204.7" y1="683.0" x2="210.9" y2="683.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="207.8" cy="683.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="678.5" width="73.7" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="707.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Bloodletting</text>
+<line x1="203.9" y1="703.0" x2="210.7" y2="703.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="207.3" cy="703.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="698.5" width="54.0" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="713.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="713.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="727.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Evolve</text>
+<line x1="201.0" y1="723.0" x2="207.6" y2="723.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="204.3" cy="723.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="718.5" width="32.9" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="747.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Body Slam</text>
+<line x1="201.3" y1="743.0" x2="204.7" y2="743.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="203.0" cy="743.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="738.5" width="25.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="753.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="753.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="767.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Intimidate</text>
+<line x1="200.4" y1="763.0" x2="204.8" y2="763.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="202.6" cy="763.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="758.5" width="57.2" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="787.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Iron Wave</text>
+<line x1="201.0" y1="783.0" x2="203.7" y2="783.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="202.4" cy="783.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="778.5" width="41.4" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="793.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="793.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="807.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Rage</text>
+<line x1="200.1" y1="803.0" x2="204.5" y2="803.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="202.3" cy="803.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="798.5" width="50.4" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="827.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Wild Strike</text>
+<line x1="200.7" y1="823.0" x2="203.1" y2="823.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="201.9" cy="823.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="818.5" width="36.6" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="833.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="833.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="847.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Havoc</text>
+<line x1="197.9" y1="843.0" x2="199.6" y2="843.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="198.8" cy="843.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="838.5" width="9.7" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="867.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Thunderclap</text>
+<line x1="197.1" y1="863.0" x2="198.2" y2="863.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="197.7" cy="863.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="858.5" width="5.0" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="873.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="873.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="887.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">True Grit</text>
+<line x1="197.0" y1="883.0" x2="197.9" y2="883.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="197.5" cy="883.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="878.5" width="6.7" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="907.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Warcry</text>
+<line x1="196.8" y1="903.0" x2="197.9" y2="903.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="197.4" cy="903.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="898.5" width="3.2" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="913.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="913.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="927.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Armaments</text>
+<line x1="196.7" y1="923.0" x2="197.6" y2="923.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="197.2" cy="923.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="918.5" width="4.7" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="947.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Cleave</text>
+<line x1="196.3" y1="943.0" x2="197.0" y2="943.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.7" cy="943.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="938.5" width="2.8" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="953.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="953.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="967.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Sword Boomerang</text>
+<line x1="196.0" y1="963.0" x2="196.9" y2="963.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.5" cy="963.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="958.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="987.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Combust</text>
+<line x1="196.0" y1="983.0" x2="196.8" y2="983.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.4" cy="983.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="978.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="993.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="993.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1007.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Sentinel</text>
+<line x1="196.0" y1="1003.0" x2="196.7" y2="1003.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.3" cy="1003.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="998.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="1027.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Heavy Blade</text>
+<line x1="196.0" y1="1023.0" x2="196.6" y2="1023.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.3" cy="1023.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="1018.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="1033.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="1033.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1047.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Clash</text>
+<line x1="196.0" y1="1043.0" x2="196.4" y2="1043.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.2" cy="1043.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="1038.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="1067.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Perfected Strike</text>
+<line x1="196.0" y1="1063.0" x2="196.4" y2="1063.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.2" cy="1063.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="1058.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="1073.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="1073.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1087.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Dual Wield</text>
+<line x1="196.0" y1="1083.0" x2="196.0" y2="1083.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.0" cy="1083.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="1078.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="1107.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Entrench</text>
+<line x1="196.0" y1="1103.0" x2="196.0" y2="1103.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.0" cy="1103.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="1098.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="1113.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="1113.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1127.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Flex</text>
+<line x1="196.0" y1="1123.0" x2="196.0" y2="1123.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.0" cy="1123.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="1118.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<text x="170.0" y="1147.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Rupture</text>
+<line x1="196.0" y1="1143.0" x2="196.0" y2="1143.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.0" cy="1143.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="1138.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+<rect x="188.0" y="1153.0" width="411.0" height="20.0" rx="0" fill="#efefec"/>
+<rect x="629.0" y="1153.0" width="245.0" height="20.0" rx="0" fill="#efefec"/>
+<text x="170.0" y="1167.5" font-size="14.3" text-anchor="end" fill="#1a1a1a">Searing Blow</text>
+<line x1="196.0" y1="1163.0" x2="196.0" y2="1163.0" stroke="#2a78d6" stroke-width="2"/>
+<circle cx="196.0" cy="1163.0" r="4.5" fill="#2a78d6" stroke="#fff" stroke-width="1.5"/>
+<rect x="637.0" y="1158.5" width="1.5" height="9.0" rx="2" fill="#eb6834"/>
+</g>
+</svg>

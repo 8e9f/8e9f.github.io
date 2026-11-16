@@ -10,7 +10,7 @@ In a sample of 100 games, Amber Eye won 90, including a streak of 19.
 The engine was trained using [AlphaZero](https://deepmind.google/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/)-style techniques:
 a neural network starts with almost no prior knowledge of game mechanics and learns to win through playing games and observing their outcomes.
 Amber Eye was trained from scratch on my desktop computer for about one month, playing about 13.8 million games over that time.
-Its playstyle is unlike any other player I have watched,
+Its playstyle is not quite like any other player I have watched,
 and I believe that the ideas exhibited by its gameplay are worth further study.
 
 * TOC
@@ -42,7 +42,7 @@ The 100-game sample was played with the engine controlling a real game instance,
 using a modified version of [CommunicationMod](https://github.com/ForgottenArbiter/CommunicationMod).
 The engine was given a search budget of 262k positions per move (about 30-60 minutes per game).
 
-The engine does not have knowledge of the RNG state*[^leakedinfo].
+The engine does not have knowledge of the seed or RNG state*[^leakedinfo].
 I have ensured this to the best of my ability by only sharing visible or previously revealed state from the game with the engine.
 Formally, the model aims to learn to play "ideal Spire",
 an abstract version of the game where random outcomes are drawn truly at random, instead of from a seeded RNG.
@@ -63,23 +63,26 @@ e.g. by picking Dark Embrace on floor 1 or buying The Abacus in the Act 1 early 
 Notably, it is comfortable using Havoc or Sever Soul as core components of its exhaust engine
 and is flexible about how it gets its loop payoff,
 opening more paths to building this type of deck.
-I was very surprised that this macro is capable of reaching such a high winrate,
-and I think it is possible human players could refine some of these ideas to improve on the best-known strategies.
 
-The engine's micro ability is generally rather terrible.
+The engine's micro ability is usually rather terrible.
 It bleeds HP and wastes damage or potions for no reason, often multiple times per run.
 For example, in [run 51](https://youtu.be/5loL9tEnOOg&t=2301) of the sample,
-it manages to throw an unloseable position entering the Heart fight.
+it manages to throw a very strong position entering the Heart fight, with the help of a bad draw order.
 (I replayed the fight and won easily.)
 Occasionally, however, the model is able to pull off some flashy lines.
+
+Overall, the general ideas are quite similar to the approaches used by good players,
+but the details look very off in a way that I'm not able to understand.
+Watching the engine's gameplay, I was very surprised that it was capable of reaching such a high winrate.
 
 ### Tier lists
 
 The engine gives estimated winning probabilities for each position,
 which we can use to generate Objectively Correct™ rankings for all items in the game.
 We can directly measure the engine-estimated impact of each choice on winrate from a sample of logged games.
-For the charts below, we define the *value* of a choice as the difference in win probability in percentage points between that choice and the next best option,
-or 0 if it is not the best choice.
+
+For the charts below, we define the *value* of a choice as the difference in win probability in percentage points between that choice and the next best option
+(or skipping), or 0 if it is not the best choice.
 The charts are sorted by average value.
 The values were measured on ~43 000 self-play games played at the end of the training run.
 Due to being played with a lower search budget, they have a slightly lower winrate (~85%) than the runs in the sample.
@@ -104,6 +107,19 @@ All the premium exhaust cards are highly rated, as expected given the engine's p
 Offering is in a tier of its own.
 A significant portion of the card pool is rated as garbage and never picked.
 
+{% include charts/cards_red_floor1.svg %}
+
+The floor 1 card ratings don't appear too out of the ordinary.
+The biggest surprises for me are Sever Soul and Reckless Charge as high as they are, Hemokinesis relatively far down the list,
+and Fire Breathing being picked a significant fraction of the time.
+
+In the sample runs, the engine appears to be significantly more willing to pick the garbage attack commons early than indicated on this chart.
+In floors 1-6, Cleave was picked 4 times, Wild Strike 6 times, Thunderclap 4 times, and Sword Boomerang 2 times,
+which is roughly double the rate expected from the self-play games.
+This is the only major macro discrepancy I have noticed between the sample and the self-play games.
+A possible explanation is that the larger search in the sample looks farther ahead into the next hallway fights and sees the value of the attacks.
+Given this difference only appears with a deep search, the impact on winrate is likely marginal.
+
 {% include charts/cards_colorless.svg %}
 
 Colorless cards have a much smaller sample size.
@@ -127,7 +143,7 @@ To no one's surprise, Pyramid is literally off the charts in terms of value.
 On average, getting Pyramid is the highest-impact choice in the whole run.
 Unexpectedly to me, Pandora's Box and Runic Cube are the next-highest rated.
 Generally, the engine is quite happy to pick Runic Cube even from the Act 1 boss reward.
-It also doesn't care too much for energy: 31 of the games in the sample were played with no energy relic.
+It also doesn't care too much for energy: 31 of the games in the sample were played with no energy boss relic.
 
 {% include charts/potion_rewards.svg %}
 
@@ -167,7 +183,7 @@ It never takes the upgrades in Shining Light; generally, it does not rate upgrad
 {% include charts/events_act2.svg %}
 
 Notably, the engine virtually never upgrades all basics in Ancient Writing,
-which is considered to be one of the strongest Act 2 event options.
+which is generally considered to be one of the strongest Act 2 event options.
 In the context of the engine being very remove-pilled, however, this makes a bit more sense.
 It also rarely takes Apparitions and Bites.
 JAX tends to be taken with Runic Cube.
@@ -547,13 +563,20 @@ $$p$$ could be lowered even further to reduce it,
 but this increases the proportion of compute spent on fast moves which don't generate training data.
 This tradeoff becomes quite unfavourable for small $$p$$.
 Thus, I altered the value label itself as further mitigation.
+
 The value labels were redefined as a combination of the search result and an exponential weighted average of future moves' search outcomes.
 This injects diversity into the value labels to reduce overfitting,
 although the labels from positions close to each other in the sequence of moves are still correlated.
 It also corresponds well to the game itself, where the long-horizon outcome is noisy and dependent on future random rolls,
 so it makes sense to downweight learning from outcomes far in the future.
-However, this label definition also has the downside of having a low weight on the real outcome,
+
+This label definition also has the downside of having a low weight on the real outcome,
 so the value estimate can remain persistently miscalibrated.
+Notably, the engine significantly underestimates its own winrate,
+and the underestimation increases in positions earlier in the game (where the end outcome is more distant).
+The gap is 10 percentage points or more at the start of the game.
+However, as long as the engine is able to score better positions as higher value,
+the actual numerical value of the predicted winrate is irrelevant.
 
 ### Exploration
 
